@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "378104807990",
+    "project_id": "foodobox-312422",
+    "storage_bucket": "foodobox-312422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378104807990:android:fc194caf6fe40331294e97",
+        "android_client_info": {
+          "package_name": "com.foodobox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378104807990-3ts75ddue02d6ck82qo98kktf45nerns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodobox",
+            "certificate_hash": "130f0cc678e9000358bf6e1d5b301a9dc74987c6"
+          }
+        },
+        {
+          "client_id": "378104807990-6909qh6lrk6k6som500gpkmrv8n79bb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodobox",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "378104807990-h4f2jutqb9uh0l11am2tnaja8pohe476.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodobox",
+            "certificate_hash": "196940a8fd9346716a37ab0029050f4219fb57fa"
+          }
+        },
+        {
+          "client_id": "378104807990-k19j52k3fn8q3ioicmodn9b8i762n74o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodobox",
+            "certificate_hash": "d461b5d9b462de081e3b1360c3c7377513f0b06c"
+          }
+        },
+        {
+          "client_id": "378104807990-kf7eh44l746m88am2mcjl3mt13ouiiuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4sFRRo6lnaenjpWlnrIcgQBRT_UTEnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378104807990-kf7eh44l746m88am2mcjl3mt13ouiiuq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378104807990-7ja0c1cbjj9una8hnt1hj7uihqcld6ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodobox",
+                "app_store_id": "1580528736"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

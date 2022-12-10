@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodOBox</string>
+    
+    <string moduleConfig="true" name="CodePushDeploymentKey">uANQaP7NFHJHle8Vg5Vr63pxFlJDB_aj0A1fA</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+
+    <string name="facebook_app_id">1532703837120978</string>
+    <string name="facebook_client_token">f4947c472a70962b8a42ba58ddab95e3</string>
+  
+</resources>
